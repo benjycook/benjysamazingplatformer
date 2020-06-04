@@ -443,4 +443,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   jumpStrength: 100
   acceleration: 2
-  maxSpeed: 20
+  maxSpeed: 300
